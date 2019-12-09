@@ -1,0 +1,19 @@
+{
+  "name": "1v1_chess",
+  "version": "1.0.0",
+  "description": "- TODO: https://gist.github.com/Ehawk82/11513b872f09d7388525906b078fd420",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/1v1_CHESS.git"
+  },
+  "author": "Jason Graziano",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/1v1_CHESS/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/1v1_CHESS#readme"
+}
